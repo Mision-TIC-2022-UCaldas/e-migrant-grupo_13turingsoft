@@ -4,17 +4,16 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-
 using E_Migrant.App.Dominio.Entidades;
 using E_Migrant.App.Persistencia.AppRepositorios;
 
-namespace entidades.app.page
+namespace E_Migrant.App.Frontend.Pages
 {
     public class EntidadModel : PageModel
     {
         private readonly IRepositorioEntidad _repoEntidad;
         public Entidad entidad { get; set; }
-        public CrearMigranteModel(IRepositorioEntidad _repoEntidad)
+        public EntidadModel(IRepositorioEntidad _repoEntidad)
         {
             this._repoEntidad = _repoEntidad;
         }
@@ -25,7 +24,7 @@ namespace entidades.app.page
         }
         public IActionResult OnPost(Entidad entidad)
         {
-            _repoEntidad.AddPersona(entidad);
+            _repoEntidad.AddEntidad(entidad);
             return RedirectToPage("Index");
         }
     }
