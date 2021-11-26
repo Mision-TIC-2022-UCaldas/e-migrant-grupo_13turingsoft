@@ -12,7 +12,7 @@ namespace E_Migrant.App.Persistencia
             if (!optionsBuilder.IsConfigured)
             {
                 optionsBuilder
-                .UseSqlServer("DataSource = (localdb)\\MSSQLLocalDB; Initial Catalog = G35_TuringSoft.Data");
+                .UseSqlServer("Data Source = (localdb)\\MSSQLLocalDB; Initial Catalog = G35_TuringSoft.Data");
             }
         }
   
