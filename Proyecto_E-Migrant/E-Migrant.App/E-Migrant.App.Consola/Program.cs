@@ -5,8 +5,10 @@ using E_Migrant.App.Persistencia.AppRepositorios;
 
 namespace E_Migrant.App.Consola
 {
+    
     class Program
     {
+        private static IRepositorioPersona _repoPersona = new RepositorioPersona(new Persistencia.AppContext());
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
@@ -32,7 +34,6 @@ namespace E_Migrant.App.Consola
             };
 
             _repoPersona.AddPersona(persona);
-
             Console.WriteLine("La Persona, " + persona.Nombres + " " + persona.Apelidos + " ha sido agregad@ exitosamente!\n");
 
 

@@ -4,6 +4,7 @@ namespace E_Migrant.App.Dominio.Entidades
 {
     public class Persona
     {
+        public int Id {get; set;}
         public string Nombres {get; set;}
         public string Apelidos {get; set;}
         public TipoDocumento TipoDocumento {get; set;}
