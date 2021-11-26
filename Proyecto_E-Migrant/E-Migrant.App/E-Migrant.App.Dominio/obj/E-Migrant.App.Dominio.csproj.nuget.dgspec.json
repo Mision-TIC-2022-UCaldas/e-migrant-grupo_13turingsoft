@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gonza\\OneDrive\\Escritorio\\Hackaton\\e-migrant-grupo35_turingsoft\\Proyecto_E-Migrant\\E-Migrant.App\\E-migrant.App.Dominio\\E-Migrant.App.Dominio.csproj": {}
+    "C:\\Users\\gonza\\OneDrive\\Escritorio\\Hackaton\\e-migrant-grupo35_turingsoft\\Proyecto_E-Migrant\\E-Migrant.App\\E-Migrant.App.Dominio\\E-Migrant.App.Dominio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gonza\\OneDrive\\Escritorio\\Hackaton\\e-migrant-grupo35_turingsoft\\Proyecto_E-Migrant\\E-Migrant.App\\E-migrant.App.Dominio\\E-Migrant.App.Dominio.csproj": {
+    "C:\\Users\\gonza\\OneDrive\\Escritorio\\Hackaton\\e-migrant-grupo35_turingsoft\\Proyecto_E-Migrant\\E-Migrant.App\\E-Migrant.App.Dominio\\E-Migrant.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gonza\\OneDrive\\Escritorio\\Hackaton\\e-migrant-grupo35_turingsoft\\Proyecto_E-Migrant\\E-Migrant.App\\E-migrant.App.Dominio\\E-Migrant.App.Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\gonza\\OneDrive\\Escritorio\\Hackaton\\e-migrant-grupo35_turingsoft\\Proyecto_E-Migrant\\E-Migrant.App\\E-Migrant.App.Dominio\\E-Migrant.App.Dominio.csproj",
         "projectName": "E-Migrant.App.Dominio",
-        "projectPath": "C:\\Users\\gonza\\OneDrive\\Escritorio\\Hackaton\\e-migrant-grupo35_turingsoft\\Proyecto_E-Migrant\\E-Migrant.App\\E-migrant.App.Dominio\\E-Migrant.App.Dominio.csproj",
+        "projectPath": "C:\\Users\\gonza\\OneDrive\\Escritorio\\Hackaton\\e-migrant-grupo35_turingsoft\\Proyecto_E-Migrant\\E-Migrant.App\\E-Migrant.App.Dominio\\E-Migrant.App.Dominio.csproj",
         "packagesPath": "C:\\Users\\gonza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gonza\\OneDrive\\Escritorio\\Hackaton\\e-migrant-grupo35_turingsoft\\Proyecto_E-Migrant\\E-Migrant.App\\E-migrant.App.Dominio\\obj\\",
+        "outputPath": "C:\\Users\\gonza\\OneDrive\\Escritorio\\Hackaton\\e-migrant-grupo35_turingsoft\\Proyecto_E-Migrant\\E-Migrant.App\\E-Migrant.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gonza\\AppData\\Roaming\\NuGet\\NuGet.Config"

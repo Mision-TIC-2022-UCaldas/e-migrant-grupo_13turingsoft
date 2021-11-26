@@ -7,14 +7,14 @@ using Microsoft.EntityFrameworkCore;
 
 namespace E_Migrant.App.Persistencia.AppRepositorios
 {
-    public class RepositorioPersona : IRepositorioPersona
+    public class RepositorioEntidad : IRepositorioEntidad
     {
         private readonly AppContext _appContext = new AppContext();
-        Persona IRepositorioPersona.AddPersona(Persona Persona)
+        Entidad IRepositorioEntidad.AddEntidad(Entidad Entidad)
         {
-            var PersonaAdicionado = _appContext.Personas.Add(Persona);
+            var EntidadAdicionada = _appContext.Entidades.Add(Entidad);
             _appContext.SaveChanges();
-            return PersonaAdicionado.Entity;
+            return EntidadAdicionada.Entity;
         }
     }
 }
