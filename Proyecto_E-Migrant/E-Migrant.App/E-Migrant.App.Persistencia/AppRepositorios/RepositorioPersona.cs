@@ -9,11 +9,11 @@ namespace E_Migrant.App.Persistencia.AppRepositorios
 {
     public class RepositorioPersona : IRepositorioPersona
     {
-        private readonly AppContext _appContext;
-        public RepositorioPersona(AppContext appContext)
-        {
-            this._appContext=appContext;
-        }
+        private readonly AppContext _appContext = new AppContext();
+        // public RepositorioPersona(AppContext appContext)
+        // {
+        //     this._appContext=appContext;
+        // }
         Persona IRepositorioPersona.AddPersona(Persona Persona)
         {
             var PersonaAdicionado = _appContext.Personas.Add(Persona);

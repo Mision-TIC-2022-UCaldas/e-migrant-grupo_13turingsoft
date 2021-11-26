@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\teis_\\.nuget\\packages\\": {}
+    "C:\\Users\\gonza\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\HACKATON\\e-migrant-grupo35_turingsoft\\Proyecto_E-Migrant\\E-Migrant.App\\E-Migrant.App.Dominio\\E-Migrant.App.Dominio.csproj",
+      "projectUniqueName": "C:\\Users\\gonza\\OneDrive\\Escritorio\\Hackaton\\e-migrant-grupo35_turingsoft\\Proyecto_E-Migrant\\E-Migrant.App\\E-migrant.App.Dominio\\E-Migrant.App.Dominio.csproj",
       "projectName": "E-Migrant.App.Dominio",
-      "projectPath": "C:\\HACKATON\\e-migrant-grupo35_turingsoft\\Proyecto_E-Migrant\\E-Migrant.App\\E-Migrant.App.Dominio\\E-Migrant.App.Dominio.csproj",
-      "packagesPath": "C:\\Users\\teis_\\.nuget\\packages\\",
-      "outputPath": "C:\\HACKATON\\e-migrant-grupo35_turingsoft\\Proyecto_E-Migrant\\E-Migrant.App\\E-Migrant.App.Dominio\\obj\\",
+      "projectPath": "C:\\Users\\gonza\\OneDrive\\Escritorio\\Hackaton\\e-migrant-grupo35_turingsoft\\Proyecto_E-Migrant\\E-Migrant.App\\E-migrant.App.Dominio\\E-Migrant.App.Dominio.csproj",
+      "packagesPath": "C:\\Users\\gonza\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gonza\\OneDrive\\Escritorio\\Hackaton\\e-migrant-grupo35_turingsoft\\Proyecto_E-Migrant\\E-Migrant.App\\E-migrant.App.Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\teis_\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\gonza\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
