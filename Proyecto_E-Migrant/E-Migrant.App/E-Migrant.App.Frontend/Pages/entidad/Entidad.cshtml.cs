@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using E_Migrant.App.Dominio.Entidades;
 using E_Migrant.App.Persistencia.AppRepositorios;
 
-namespace entidades.app.page
+namespace E_Migrant.App.Frontend.Pages.entidad
 {
     public class EntidadModel : PageModel
     {

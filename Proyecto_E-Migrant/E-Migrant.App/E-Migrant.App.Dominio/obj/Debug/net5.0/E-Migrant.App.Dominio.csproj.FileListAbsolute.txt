@@ -34,3 +34,15 @@ C:\Users\gonza\OneDrive\Escritorio\Hackaton\e-migrant-grupo35_turingsoft\Proyect
 C:\Users\gonza\OneDrive\Escritorio\Hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-migrant.App.Dominio\obj\Debug\net5.0\E-Migrant.App.Dominio.dll
 C:\Users\gonza\OneDrive\Escritorio\Hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-migrant.App.Dominio\obj\Debug\net5.0\ref\E-Migrant.App.Dominio.dll
 C:\Users\gonza\OneDrive\Escritorio\Hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-migrant.App.Dominio\obj\Debug\net5.0\E-Migrant.App.Dominio.pdb
+D:\todo\cursos virt\MINTIC\hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-migrant.App.Dominio\bin\Debug\net5.0\E-Migrant.App.Dominio.deps.json
+D:\todo\cursos virt\MINTIC\hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-migrant.App.Dominio\bin\Debug\net5.0\E-Migrant.App.Dominio.dll
+D:\todo\cursos virt\MINTIC\hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-migrant.App.Dominio\bin\Debug\net5.0\ref\E-Migrant.App.Dominio.dll
+D:\todo\cursos virt\MINTIC\hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-migrant.App.Dominio\bin\Debug\net5.0\E-Migrant.App.Dominio.pdb
+D:\todo\cursos virt\MINTIC\hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-migrant.App.Dominio\obj\Debug\net5.0\E-Migrant.App.Dominio.csprojAssemblyReference.cache
+D:\todo\cursos virt\MINTIC\hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-migrant.App.Dominio\obj\Debug\net5.0\E-Migrant.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\todo\cursos virt\MINTIC\hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-migrant.App.Dominio\obj\Debug\net5.0\E-Migrant.App.Dominio.AssemblyInfoInputs.cache
+D:\todo\cursos virt\MINTIC\hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-migrant.App.Dominio\obj\Debug\net5.0\E-Migrant.App.Dominio.AssemblyInfo.cs
+D:\todo\cursos virt\MINTIC\hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-migrant.App.Dominio\obj\Debug\net5.0\E-Migrant.App.Dominio.csproj.CoreCompileInputs.cache
+D:\todo\cursos virt\MINTIC\hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-migrant.App.Dominio\obj\Debug\net5.0\E-Migrant.App.Dominio.dll
+D:\todo\cursos virt\MINTIC\hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-migrant.App.Dominio\obj\Debug\net5.0\ref\E-Migrant.App.Dominio.dll
+D:\todo\cursos virt\MINTIC\hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-migrant.App.Dominio\obj\Debug\net5.0\E-Migrant.App.Dominio.pdb

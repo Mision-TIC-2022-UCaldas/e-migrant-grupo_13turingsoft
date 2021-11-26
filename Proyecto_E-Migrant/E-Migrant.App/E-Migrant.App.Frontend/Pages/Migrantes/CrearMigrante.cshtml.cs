@@ -13,7 +13,7 @@ namespace E_Migrant.App.Frontend.Pages.Migrantes
     {
         private readonly IRepositorioPersona _repoPersona;
         public Persona persona { get; set; }
-        public CrearMigranteModel(IRepositorioPersona _repoPersona)
+        public CrearEntidadModel(IRepositorioPersona _repoPersona)
         {
             this._repoPersona = _repoPersona;
         }

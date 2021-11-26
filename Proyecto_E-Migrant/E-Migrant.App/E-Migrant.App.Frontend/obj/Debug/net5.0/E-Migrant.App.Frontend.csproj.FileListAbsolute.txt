@@ -74,3 +74,14 @@ C:\Users\gonza\OneDrive\Escritorio\Hackaton\e-migrant-grupo35_turingsoft\Proyect
 C:\Users\gonza\OneDrive\Escritorio\Hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-Migrant.App.Frontend\obj\Debug\net5.0\E-Migrant.App.Frontend.csproj.CopyComplete
 C:\Users\gonza\OneDrive\Escritorio\Hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-Migrant.App.Frontend\obj\Debug\net5.0\E-Migrant.App.Frontend.genruntimeconfig.cache
 C:\Users\gonza\OneDrive\Escritorio\Hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-Migrant.App.Frontend\obj\Debug\net5.0\Razor\Pages\Migrantes\Index.cshtml.g.cs
+D:\todo\cursos virt\MINTIC\hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-Migrant.App.Frontend\obj\Debug\net5.0\E-Migrant.App.Frontend.csprojAssemblyReference.cache
+D:\todo\cursos virt\MINTIC\hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-Migrant.App.Frontend\obj\Debug\net5.0\E-Migrant.App.Frontend.GeneratedMSBuildEditorConfig.editorconfig
+D:\todo\cursos virt\MINTIC\hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-Migrant.App.Frontend\obj\Debug\net5.0\E-Migrant.App.Frontend.AssemblyInfoInputs.cache
+D:\todo\cursos virt\MINTIC\hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-Migrant.App.Frontend\obj\Debug\net5.0\E-Migrant.App.Frontend.AssemblyInfo.cs
+D:\todo\cursos virt\MINTIC\hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-Migrant.App.Frontend\obj\Debug\net5.0\E-Migrant.App.Frontend.csproj.CoreCompileInputs.cache
+D:\todo\cursos virt\MINTIC\hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-Migrant.App.Frontend\obj\Debug\net5.0\E-Migrant.App.Frontend.MvcApplicationPartsAssemblyInfo.cache
+D:\todo\cursos virt\MINTIC\hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-Migrant.App.Frontend\obj\Debug\net5.0\E-Migrant.App.Frontend.RazorAssemblyInfo.cache
+D:\todo\cursos virt\MINTIC\hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-Migrant.App.Frontend\obj\Debug\net5.0\E-Migrant.App.Frontend.RazorAssemblyInfo.cs
+D:\todo\cursos virt\MINTIC\hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-Migrant.App.Frontend\obj\Debug\net5.0\E-Migrant.App.Frontend.dll
+D:\todo\cursos virt\MINTIC\hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-Migrant.App.Frontend\obj\Debug\net5.0\ref\E-Migrant.App.Frontend.dll
+D:\todo\cursos virt\MINTIC\hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-Migrant.App.Frontend\obj\Debug\net5.0\E-Migrant.App.Frontend.pdb

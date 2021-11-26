@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\gonza\\.nuget\\packages\\": {}
+    "C:\\Users\\GAMER\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gonza\\OneDrive\\Escritorio\\Hackaton\\e-migrant-grupo35_turingsoft\\Proyecto_E-Migrant\\E-Migrant.App\\E-migrant.App.Dominio\\E-Migrant.App.Dominio.csproj",
+      "projectUniqueName": "D:\\todo\\cursos virt\\MINTIC\\hackaton\\e-migrant-grupo35_turingsoft\\Proyecto_E-Migrant\\E-Migrant.App\\E-migrant.App.Dominio\\E-Migrant.App.Dominio.csproj",
       "projectName": "E-Migrant.App.Dominio",
-      "projectPath": "C:\\Users\\gonza\\OneDrive\\Escritorio\\Hackaton\\e-migrant-grupo35_turingsoft\\Proyecto_E-Migrant\\E-Migrant.App\\E-migrant.App.Dominio\\E-Migrant.App.Dominio.csproj",
-      "packagesPath": "C:\\Users\\gonza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gonza\\OneDrive\\Escritorio\\Hackaton\\e-migrant-grupo35_turingsoft\\Proyecto_E-Migrant\\E-Migrant.App\\E-migrant.App.Dominio\\obj\\",
+      "projectPath": "D:\\todo\\cursos virt\\MINTIC\\hackaton\\e-migrant-grupo35_turingsoft\\Proyecto_E-Migrant\\E-Migrant.App\\E-migrant.App.Dominio\\E-Migrant.App.Dominio.csproj",
+      "packagesPath": "C:\\Users\\GAMER\\.nuget\\packages\\",
+      "outputPath": "D:\\todo\\cursos virt\\MINTIC\\hackaton\\e-migrant-grupo35_turingsoft\\Proyecto_E-Migrant\\E-Migrant.App\\E-migrant.App.Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\gonza\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\GAMER\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
