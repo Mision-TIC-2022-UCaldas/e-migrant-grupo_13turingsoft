@@ -1,0 +1,16 @@
+C:\HACKATON\e-migrant-grupo35_turingsoft\reto_0-Calentamiento\imc.App\imc.App.Consola\bin\Debug\net5.0\imc.App.Consola.exe
+C:\HACKATON\e-migrant-grupo35_turingsoft\reto_0-Calentamiento\imc.App\imc.App.Consola\bin\Debug\net5.0\imc.App.Consola.deps.json
+C:\HACKATON\e-migrant-grupo35_turingsoft\reto_0-Calentamiento\imc.App\imc.App.Consola\bin\Debug\net5.0\imc.App.Consola.runtimeconfig.json
+C:\HACKATON\e-migrant-grupo35_turingsoft\reto_0-Calentamiento\imc.App\imc.App.Consola\bin\Debug\net5.0\imc.App.Consola.runtimeconfig.dev.json
+C:\HACKATON\e-migrant-grupo35_turingsoft\reto_0-Calentamiento\imc.App\imc.App.Consola\bin\Debug\net5.0\imc.App.Consola.dll
+C:\HACKATON\e-migrant-grupo35_turingsoft\reto_0-Calentamiento\imc.App\imc.App.Consola\bin\Debug\net5.0\ref\imc.App.Consola.dll
+C:\HACKATON\e-migrant-grupo35_turingsoft\reto_0-Calentamiento\imc.App\imc.App.Consola\bin\Debug\net5.0\imc.App.Consola.pdb
+C:\HACKATON\e-migrant-grupo35_turingsoft\reto_0-Calentamiento\imc.App\imc.App.Consola\obj\Debug\net5.0\imc.App.Consola.csproj.AssemblyReference.cache
+C:\HACKATON\e-migrant-grupo35_turingsoft\reto_0-Calentamiento\imc.App\imc.App.Consola\obj\Debug\net5.0\imc.App.Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\HACKATON\e-migrant-grupo35_turingsoft\reto_0-Calentamiento\imc.App\imc.App.Consola\obj\Debug\net5.0\imc.App.Consola.AssemblyInfoInputs.cache
+C:\HACKATON\e-migrant-grupo35_turingsoft\reto_0-Calentamiento\imc.App\imc.App.Consola\obj\Debug\net5.0\imc.App.Consola.AssemblyInfo.cs
+C:\HACKATON\e-migrant-grupo35_turingsoft\reto_0-Calentamiento\imc.App\imc.App.Consola\obj\Debug\net5.0\imc.App.Consola.csproj.CoreCompileInputs.cache
+C:\HACKATON\e-migrant-grupo35_turingsoft\reto_0-Calentamiento\imc.App\imc.App.Consola\obj\Debug\net5.0\imc.App.Consola.dll
+C:\HACKATON\e-migrant-grupo35_turingsoft\reto_0-Calentamiento\imc.App\imc.App.Consola\obj\Debug\net5.0\ref\imc.App.Consola.dll
+C:\HACKATON\e-migrant-grupo35_turingsoft\reto_0-Calentamiento\imc.App\imc.App.Consola\obj\Debug\net5.0\imc.App.Consola.pdb
+C:\HACKATON\e-migrant-grupo35_turingsoft\reto_0-Calentamiento\imc.App\imc.App.Consola\obj\Debug\net5.0\imc.App.Consola.genruntimeconfig.cache
