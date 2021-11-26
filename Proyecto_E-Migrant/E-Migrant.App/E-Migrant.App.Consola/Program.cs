@@ -1,6 +1,6 @@
 ﻿using System;
-using E_Migrant.App.Dominio;
-using E_Migrant.App.Persistencia.AppRespositorios;
+using E_Migrant.App.Dominio.Entidades;
+using E_Migrant.App.Persistencia.AppRepositorios;
 
 namespace E_Migrant.App.Consola
 {
@@ -11,6 +11,7 @@ namespace E_Migrant.App.Consola
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            
             AddPersona();
         }
         private static void AddPersona()
@@ -18,7 +19,7 @@ namespace E_Migrant.App.Consola
             var persona = new Persona 
             {
                 Nombres = "Andrea",
-                Apellidos = "Gomez",
+                Apelidos = "Gomez",
                 TipoDocumento = TipoDocumento.CedulaCiudadania,
                 Documento = "1071231637",
                 PaisOrigen = "Col",
@@ -31,9 +32,9 @@ namespace E_Migrant.App.Consola
 
             };
 
-            _repoPersona.AddPaciente(persona);
+            _repoPersona.AddPersona(persona);
 
-            Console.WriteLine("Paciente, " + paciente.Nombres + " " + paciente.Apellidos + " ha sido agregad@ exitosamente!\n");
+            Console.WriteLine("La Persona, " + persona.Nombres + " " + persona.Apelidos + " ha sido agregad@ exitosamente!\n");
 
 
         }
