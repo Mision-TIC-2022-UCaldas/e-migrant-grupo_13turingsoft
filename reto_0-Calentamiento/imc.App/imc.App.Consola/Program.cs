@@ -29,7 +29,7 @@ namespace imc.App.Consola
             peso = Convert.ToInt32(Console.ReadLine());
             Console.Clear();
  
-            Console.WriteLine("Ahora escriba su altura en metros \"Ejemplo: 1.65\":");
+            Console.WriteLine("Ahora escriba su altura en metros \"Ejemplo: 1,65\":");
             altura = Convert.ToDouble(Console.ReadLine());
             Console.Clear();
  
@@ -37,7 +37,6 @@ namespace imc.App.Consola
             preimc = Convert.ToDouble(altura * altura);
             imc = Convert.ToDouble(peso / preimc); // El resultado final
  
-            Console.WriteLine(preimc);
             Console.WriteLine("Tu IMC es: " + imc);
             // INICIAN LAS CONDICIONES
             if (imc < 16) 
