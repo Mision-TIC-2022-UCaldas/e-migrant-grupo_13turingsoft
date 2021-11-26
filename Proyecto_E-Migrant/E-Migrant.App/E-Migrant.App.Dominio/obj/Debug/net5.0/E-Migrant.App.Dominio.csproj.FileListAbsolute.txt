@@ -10,3 +10,15 @@ C:\Users\gonza\OneDrive\Escritorio\G35\e-migrant-grupo35_turingsoft\Proyecto_E-M
 C:\Users\gonza\OneDrive\Escritorio\G35\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-Migrant.App.Dominio\obj\Debug\net5.0\E-Migrant.App.Dominio.dll
 C:\Users\gonza\OneDrive\Escritorio\G35\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-Migrant.App.Dominio\obj\Debug\net5.0\ref\E-Migrant.App.Dominio.dll
 C:\Users\gonza\OneDrive\Escritorio\G35\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-Migrant.App.Dominio\obj\Debug\net5.0\E-Migrant.App.Dominio.pdb
+C:\HACKATON\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-Migrant.App.Dominio\bin\Debug\net5.0\E-Migrant.App.Dominio.deps.json
+C:\HACKATON\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-Migrant.App.Dominio\bin\Debug\net5.0\E-Migrant.App.Dominio.dll
+C:\HACKATON\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-Migrant.App.Dominio\bin\Debug\net5.0\ref\E-Migrant.App.Dominio.dll
+C:\HACKATON\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-Migrant.App.Dominio\bin\Debug\net5.0\E-Migrant.App.Dominio.pdb
+C:\HACKATON\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-Migrant.App.Dominio\obj\Debug\net5.0\E-Migrant.App.Dominio.csproj.AssemblyReference.cache
+C:\HACKATON\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-Migrant.App.Dominio\obj\Debug\net5.0\E-Migrant.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\HACKATON\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-Migrant.App.Dominio\obj\Debug\net5.0\E-Migrant.App.Dominio.AssemblyInfoInputs.cache
+C:\HACKATON\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-Migrant.App.Dominio\obj\Debug\net5.0\E-Migrant.App.Dominio.AssemblyInfo.cs
+C:\HACKATON\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-Migrant.App.Dominio\obj\Debug\net5.0\E-Migrant.App.Dominio.csproj.CoreCompileInputs.cache
+C:\HACKATON\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-Migrant.App.Dominio\obj\Debug\net5.0\E-Migrant.App.Dominio.dll
+C:\HACKATON\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-Migrant.App.Dominio\obj\Debug\net5.0\ref\E-Migrant.App.Dominio.dll
+C:\HACKATON\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-Migrant.App.Dominio\obj\Debug\net5.0\E-Migrant.App.Dominio.pdb
