@@ -1,0 +1,58 @@
+﻿@page
+@model entidades.app.page.EntidadModel
+@{
+}
+<h1>Registrar Entidad</h1>
+
+<form method="post">
+
+    <div class="form-group">
+        <label asp-for="Entidad.RazonSocial"></label>
+        <input asp-for="Entidad.RazonSocial" class="form-control" required="requerided">
+    </div>
+    
+    <div class="form-group">
+        <label asp-for="Entidad.Nit"></label>
+        <input asp-for="Entidad.Nit" class="form-control" required="requerided">
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Entidad.Direccion"></label>
+        <input asp-for="Entidad.Direccion" class="form-control" required="requerided">
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Entidad.Ciudad"></label>
+        <input asp-for="Entidad.Ciudad" class="form-control" required="requerided">
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Entidad.Telefono">Número de telefono</label>
+        <input asp-for="Entidad.Telefono" class="form-control" required="requerided">
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Entidad.Email"></label>
+        <input asp-for="Entidad.Email" class="form-control" required="requerided">
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Entidad.PaginaWeb"></label>
+        <input asp-for="Entidad.PaginaWeb" class="form-control" required="requerided">
+    </div>
+
+    
+    <div class="form-group">
+        <label asp-for="Entidad.Sector">Sector</label>
+        <select asp-for="Entidad.Sector" asp-items="Html.GetEnumSelectList<Sector>()" class="form-control"></select>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Entidad.TipoServicio">Tipo de servicios que ofrece</label>
+        <select asp-for="Entidad.TipoServicio" asp-items="Html.GetEnumSelectList<TipoServicio>()" class="form-control"></select>
+    </div>
+
+   
+    <button type="submit" class="btn btn-primary">Registrar</button>
+
+</form>
