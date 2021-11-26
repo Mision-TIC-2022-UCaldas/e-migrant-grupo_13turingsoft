@@ -9,8 +9,8 @@ namespace E_Migrant.App.Persistencia.AppRepositorios
 {
     public class RepositorioPersona : IRepositorioPersona
     {
-        private readonly AppContext _appContext = new AppContext();
-        RepositorioPersona(AppContext appContext)
+        private readonly AppContext _appContext;
+        public RepositorioPersona(AppContext appContext)
         {
             this._appContext=appContext;
         }
