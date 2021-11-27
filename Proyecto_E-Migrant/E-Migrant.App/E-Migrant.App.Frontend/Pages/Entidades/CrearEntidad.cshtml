@@ -1,0 +1,56 @@
+﻿@page
+@using E_Migrant.App.Dominio.Entidades
+@model E_Migrant.App.Frontend.Pages.Entidades.CrearEntidadModel
+@{
+}
+<h1>Registrar una nueva entidad</h1>
+
+<form method="post">
+
+    <div class="form-group">
+        <label asp-for="entidadColaboradora.RazonSocial"></label>
+        <input asp-for="entidadColaboradora.RazonSocial" class="form-control" required="requerided">
+    </div>
+    
+    <div class="form-group">
+        <label asp-for="entidadColaboradora.Nit"></label>
+        <input asp-for="entidadColaboradora.Nit" class="form-control" required="requerided">
+    </div>
+
+    <div class="form-group">
+        <label asp-for="entidadColaboradora.Direccion"></label>
+        <input asp-for="entidadColaboradora.Direccion" class="form-control" required="requerided">
+    </div>
+    <div class="form-group">
+        <label asp-for="entidadColaboradora.Ciudad">Pais de origen</label>
+        <input asp-for="entidadColaboradora.Ciudad" class="form-control" required="requerided">
+    </div>
+
+    <div class="form-group">
+        <label asp-for="entidadColaboradora.Telefono"></label>
+        <input asp-for="entidadColaboradora.Telefono" class="form-control" required="requerided">
+    </div>
+
+    <div class="form-group">
+        <label asp-for="entidadColaboradora.Email"></label>
+        <input asp-for="entidadColaboradora.Email" class="form-control" >
+    </div>
+
+    <div class="form-group">
+        <label asp-for="entidadColaboradora.PaginaWeb"></label>
+        <input asp-for="entidadColaboradora.PaginaWeb" class="form-control">
+    </div>
+
+    <div class="form-group">
+        <label asp-for="entidadColaboradora.Sector">Sector</label>
+        <select asp-for="entidadColaboradora.Sector" asp-items="Html.GetEnumSelectList<Sector>()" class="form-control" required="requerided"></select>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="entidadColaboradora.OfertaServicios">Oferta de servicios</label>
+        <select asp-for="entidadColaboradora.OfertaServicios" asp-items="Html.GetEnumSelectList<OfertaServicios>()" class="form-control" required="requerided"></select>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Registrar</button>
+
+</form>
