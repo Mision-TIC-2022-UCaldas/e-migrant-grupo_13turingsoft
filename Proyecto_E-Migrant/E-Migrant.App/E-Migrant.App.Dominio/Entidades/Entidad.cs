@@ -4,6 +4,7 @@ namespace E_Migrant.App.Dominio.Entidades
 {
     public class Entidad
     {
+        public int Id { get; set; }
         public string RazonSocial { get; set; }
         public string Nit { get; set; }
         public string Direccion { get; set; }

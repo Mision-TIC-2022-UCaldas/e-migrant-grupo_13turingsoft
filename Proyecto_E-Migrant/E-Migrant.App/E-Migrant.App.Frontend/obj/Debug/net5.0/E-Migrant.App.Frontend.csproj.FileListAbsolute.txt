@@ -1,0 +1,8 @@
+C:\Users\gonza\OneDrive\Escritorio\Hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-Migrant.App.Frontend\obj\Debug\net5.0\E-Migrant.App.Frontend.csproj.AssemblyReference.cache
+C:\Users\gonza\OneDrive\Escritorio\Hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-Migrant.App.Frontend\obj\Debug\net5.0\E-Migrant.App.Frontend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonza\OneDrive\Escritorio\Hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-Migrant.App.Frontend\obj\Debug\net5.0\E-Migrant.App.Frontend.AssemblyInfoInputs.cache
+C:\Users\gonza\OneDrive\Escritorio\Hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-Migrant.App.Frontend\obj\Debug\net5.0\E-Migrant.App.Frontend.AssemblyInfo.cs
+C:\Users\gonza\OneDrive\Escritorio\Hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-Migrant.App.Frontend\obj\Debug\net5.0\E-Migrant.App.Frontend.csproj.CoreCompileInputs.cache
+C:\Users\gonza\OneDrive\Escritorio\Hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-Migrant.App.Frontend\obj\Debug\net5.0\E-Migrant.App.Frontend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gonza\OneDrive\Escritorio\Hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-Migrant.App.Frontend\obj\Debug\net5.0\E-Migrant.App.Frontend.RazorAssemblyInfo.cache
+C:\Users\gonza\OneDrive\Escritorio\Hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-Migrant.App.Frontend\obj\Debug\net5.0\E-Migrant.App.Frontend.RazorAssemblyInfo.cs

@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace E_Migrant.App.Frontend.Pages
+namespace E_Migrant.App.Frontend.Pages.Entidad
 {
     public class IndexModel : PageModel
     {

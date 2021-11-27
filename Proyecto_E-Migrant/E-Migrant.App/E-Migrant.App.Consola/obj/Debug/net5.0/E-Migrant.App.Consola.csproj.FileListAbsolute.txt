@@ -1,0 +1,5 @@
+C:\Users\gonza\OneDrive\Escritorio\Hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-Migrant.App.Consola\obj\Debug\net5.0\E-Migrant.App.Consola.csproj.AssemblyReference.cache
+C:\Users\gonza\OneDrive\Escritorio\Hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-Migrant.App.Consola\obj\Debug\net5.0\E-Migrant.App.Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonza\OneDrive\Escritorio\Hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-Migrant.App.Consola\obj\Debug\net5.0\E-Migrant.App.Consola.AssemblyInfoInputs.cache
+C:\Users\gonza\OneDrive\Escritorio\Hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-Migrant.App.Consola\obj\Debug\net5.0\E-Migrant.App.Consola.AssemblyInfo.cs
+C:\Users\gonza\OneDrive\Escritorio\Hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-Migrant.App.Consola\obj\Debug\net5.0\E-Migrant.App.Consola.csproj.CoreCompileInputs.cache
