@@ -28,6 +28,12 @@
         <label asp-for="entidad.Ciudad">Ciudad</label>
         <input asp-for="entidad.Ciudad" class="form-control" required="requerided">
     </div>
+
+    @* <div class="form-group">
+        <label asp-for="entidad.Telefono">Teléfono</label>
+        <input asp-for="entidad.Telefono" class="form-control" required="requerided">
+    </div> *@
+
     <div class="form-group">
         <label asp-for="entidad.Email">Correo electrónico</label>
         <input asp-for="entidad.Email" class="form-control">
@@ -40,14 +46,28 @@
 
     <div class="form-group">
         <label asp-for="entidad.Sector">Sector</label>
-        <select asp-for="entidad.Sector" asp-items="Html.GetEnumSelectList<Sector>()" class="form-control"
-            required="requerided"></select>
+        <select asp-for="entidad.Sector" class="form-select form-control" required="requerided">
+            <option asp-for="Sector.Publico">Público</option>
+            <option asp-for="Sector.Privado">Privado</option>
+            <option asp-for="Sector.SinAnimoLucro">Sin ánimo de lucro</option>
+            <option asp-for="Sector.NoGubernamental">No Gubernamental</option>
+            <option asp-for="Sector.Otro">Otro</option>
+        </select>
     </div>
 
     <div class="form-group">
         <label asp-for="entidad.OfertaServicios">Tipos de servicios que ofrece</label>
-        <select asp-for="entidad.OfertaServicios" asp-items="Html.GetEnumSelectList<OfertaServicios>()"
-            class="form-control" required="requerided"></select>
+        <select asp-for="entidad.OfertaServicios"class="form-select form-control" required="requerided">
+            <option asp-for="OfertaServicios.Salud">Salud</option>
+            <option asp-for="OfertaServicios.Juridicos">Jurídicos</option>
+            <option asp-for="OfertaServicios.Viveres">Víveres</option>
+            <option asp-for="OfertaServicios.ComidaPreparada">Comida preparada</option>
+            <option asp-for="OfertaServicios.Empleo">Empleo</option>
+            <option asp-for="OfertaServicios.AlojamientoTemporal">Alojamiento temporal</option>
+            <option asp-for="OfertaServicios.AlojamientoPermanente">Alojamiento permanente</option>
+            <option asp-for="OfertaServicios.Educacion">Educacíon</option>
+            <option asp-for="OfertaServicios.Otros">Otros</option>
+        </select>
     </div>
 
     <button type="submit" class="btn btn-primary">Registrar</button>
