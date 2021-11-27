@@ -27,6 +27,7 @@ namespace E_Migrant.App.Frontend
         {
             services.AddRazorPages();
             services.AddSingleton<IRepositorioPersona, RepositorioPersona>();
+            services.AddSingleton<IRepositorioEntidad, RepositorioEntidad>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

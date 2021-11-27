@@ -6,6 +6,6 @@ namespace E_Migrant.App.Persistencia.AppRepositorios
 {
     public interface IRepositorioEntidad
     {
-        Entidad AddEntidad(Entidad entidad);
+        Entidad AddEntidad(Entidad entidad); 
     }
 }
