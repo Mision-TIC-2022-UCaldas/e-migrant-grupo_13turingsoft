@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "imc.App.Consola/1.0.0": {
+      "E-Migrant.App.Dominio/1.0.0": {
         "runtime": {
-          "imc.App.Consola.dll": {}
+          "E-Migrant.App.Dominio.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "imc.App.Consola/1.0.0": {
+    "E-Migrant.App.Dominio/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

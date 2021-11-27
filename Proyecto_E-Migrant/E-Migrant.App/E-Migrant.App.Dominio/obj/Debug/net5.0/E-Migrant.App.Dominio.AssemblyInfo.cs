@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("imc.App.Consola")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("E-Migrant.App.Dominio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("imc.App.Consola")]
-[assembly: System.Reflection.AssemblyTitleAttribute("imc.App.Consola")]
+[assembly: System.Reflection.AssemblyProductAttribute("E-Migrant.App.Dominio")]
+[assembly: System.Reflection.AssemblyTitleAttribute("E-Migrant.App.Dominio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
