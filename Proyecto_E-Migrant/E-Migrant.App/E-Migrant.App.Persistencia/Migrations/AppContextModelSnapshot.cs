@@ -19,7 +19,7 @@ namespace E_Migrant.App.Persistencia.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128)
                 .HasAnnotation("ProductVersion", "5.0.0");
 
-            modelBuilder.Entity("E_Migrant.App.Dominio.Entidades.Entidad", b =>
+            modelBuilder.Entity("E_Migrant.App.Dominio.Entidades.EntidadColaboradora", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -50,9 +50,12 @@ namespace E_Migrant.App.Persistencia.Migrations
                     b.Property<int>("Sector")
                         .HasColumnType("int");
 
+                    b.Property<string>("Telefono")
+                        .HasColumnType("nvarchar(max)");
+
                     b.HasKey("Id");
 
-                    b.ToTable("Entidades");
+                    b.ToTable("EntidadesColaboradoras");
                 });
 
             modelBuilder.Entity("E_Migrant.App.Dominio.Entidades.Persona", b =>
