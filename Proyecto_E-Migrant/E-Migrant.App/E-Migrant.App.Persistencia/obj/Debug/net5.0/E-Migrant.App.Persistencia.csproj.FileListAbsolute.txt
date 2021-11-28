@@ -52,3 +52,21 @@ C:\Users\gonza\OneDrive\Escritorio\Hackaton\e-migrant-grupo35_turingsoft\Proyect
 C:\Users\gonza\OneDrive\Escritorio\Hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-migrant.App.Persistencia\obj\Debug\net5.0\ref\E-Migrant.App.Persistencia.dll
 C:\Users\gonza\OneDrive\Escritorio\Hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-migrant.App.Persistencia\obj\Debug\net5.0\E-Migrant.App.Persistencia.pdb
 C:\Users\gonza\OneDrive\Escritorio\Hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-migrant.App.Persistencia\obj\Debug\net5.0\E-Migrant.App.Persistencia.genruntimeconfig.cache
+D:\todo\cursos virt\MINTIC\hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-migrant.App.Persistencia\bin\Debug\net5.0\E-Migrant.App.Persistencia.deps.json
+D:\todo\cursos virt\MINTIC\hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-migrant.App.Persistencia\bin\Debug\net5.0\E-Migrant.App.Persistencia.runtimeconfig.json
+D:\todo\cursos virt\MINTIC\hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-migrant.App.Persistencia\bin\Debug\net5.0\E-Migrant.App.Persistencia.runtimeconfig.dev.json
+D:\todo\cursos virt\MINTIC\hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-migrant.App.Persistencia\bin\Debug\net5.0\E-Migrant.App.Persistencia.dll
+D:\todo\cursos virt\MINTIC\hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-migrant.App.Persistencia\bin\Debug\net5.0\ref\E-Migrant.App.Persistencia.dll
+D:\todo\cursos virt\MINTIC\hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-migrant.App.Persistencia\bin\Debug\net5.0\E-Migrant.App.Persistencia.pdb
+D:\todo\cursos virt\MINTIC\hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-migrant.App.Persistencia\bin\Debug\net5.0\E-Migrant.App.Dominio.dll
+D:\todo\cursos virt\MINTIC\hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-migrant.App.Persistencia\bin\Debug\net5.0\E-Migrant.App.Dominio.pdb
+D:\todo\cursos virt\MINTIC\hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-migrant.App.Persistencia\obj\Debug\net5.0\E-Migrant.App.Persistencia.csprojAssemblyReference.cache
+D:\todo\cursos virt\MINTIC\hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-migrant.App.Persistencia\obj\Debug\net5.0\E-Migrant.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\todo\cursos virt\MINTIC\hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-migrant.App.Persistencia\obj\Debug\net5.0\E-Migrant.App.Persistencia.AssemblyInfoInputs.cache
+D:\todo\cursos virt\MINTIC\hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-migrant.App.Persistencia\obj\Debug\net5.0\E-Migrant.App.Persistencia.AssemblyInfo.cs
+D:\todo\cursos virt\MINTIC\hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-migrant.App.Persistencia\obj\Debug\net5.0\E-Migrant.App.Persistencia.csproj.CoreCompileInputs.cache
+D:\todo\cursos virt\MINTIC\hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-migrant.App.Persistencia\obj\Debug\net5.0\E-Migrant.App.Persistencia.csproj.CopyComplete
+D:\todo\cursos virt\MINTIC\hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-migrant.App.Persistencia\obj\Debug\net5.0\E-Migrant.App.Persistencia.dll
+D:\todo\cursos virt\MINTIC\hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-migrant.App.Persistencia\obj\Debug\net5.0\ref\E-Migrant.App.Persistencia.dll
+D:\todo\cursos virt\MINTIC\hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-migrant.App.Persistencia\obj\Debug\net5.0\E-Migrant.App.Persistencia.pdb
+D:\todo\cursos virt\MINTIC\hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-migrant.App.Persistencia\obj\Debug\net5.0\E-Migrant.App.Persistencia.genruntimeconfig.cache
