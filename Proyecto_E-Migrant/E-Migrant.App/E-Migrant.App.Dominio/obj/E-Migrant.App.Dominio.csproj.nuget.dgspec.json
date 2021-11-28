@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\todo\\cursos virt\\MINTIC\\hackaton\\e-migrant-grupo35_turingsoft\\Proyecto_E-Migrant\\E-Migrant.App\\E-Migrant.App.Dominio\\E-Migrant.App.Dominio.csproj": {}
+    "D:\\todo\\cursos virt\\MINTIC\\hackaton\\e-migrant-grupo35_turingsoft\\Proyecto_E-Migrant\\E-Migrant.App\\E-migrant.App.Dominio\\E-Migrant.App.Dominio.csproj": {}
   },
   "projects": {
-    "D:\\todo\\cursos virt\\MINTIC\\hackaton\\e-migrant-grupo35_turingsoft\\Proyecto_E-Migrant\\E-Migrant.App\\E-Migrant.App.Dominio\\E-Migrant.App.Dominio.csproj": {
+    "D:\\todo\\cursos virt\\MINTIC\\hackaton\\e-migrant-grupo35_turingsoft\\Proyecto_E-Migrant\\E-Migrant.App\\E-migrant.App.Dominio\\E-Migrant.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\todo\\cursos virt\\MINTIC\\hackaton\\e-migrant-grupo35_turingsoft\\Proyecto_E-Migrant\\E-Migrant.App\\E-Migrant.App.Dominio\\E-Migrant.App.Dominio.csproj",
+        "projectUniqueName": "D:\\todo\\cursos virt\\MINTIC\\hackaton\\e-migrant-grupo35_turingsoft\\Proyecto_E-Migrant\\E-Migrant.App\\E-migrant.App.Dominio\\E-Migrant.App.Dominio.csproj",
         "projectName": "E-Migrant.App.Dominio",
-        "projectPath": "D:\\todo\\cursos virt\\MINTIC\\hackaton\\e-migrant-grupo35_turingsoft\\Proyecto_E-Migrant\\E-Migrant.App\\E-Migrant.App.Dominio\\E-Migrant.App.Dominio.csproj",
+        "projectPath": "D:\\todo\\cursos virt\\MINTIC\\hackaton\\e-migrant-grupo35_turingsoft\\Proyecto_E-Migrant\\E-Migrant.App\\E-migrant.App.Dominio\\E-Migrant.App.Dominio.csproj",
         "packagesPath": "C:\\Users\\GAMER\\.nuget\\packages\\",
-        "outputPath": "D:\\todo\\cursos virt\\MINTIC\\hackaton\\e-migrant-grupo35_turingsoft\\Proyecto_E-Migrant\\E-Migrant.App\\E-Migrant.App.Dominio\\obj\\",
+        "outputPath": "D:\\todo\\cursos virt\\MINTIC\\hackaton\\e-migrant-grupo35_turingsoft\\Proyecto_E-Migrant\\E-Migrant.App\\E-migrant.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\GAMER\\AppData\\Roaming\\NuGet\\NuGet.Config"

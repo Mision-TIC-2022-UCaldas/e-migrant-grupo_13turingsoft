@@ -148,3 +148,6 @@ D:\todo\cursos virt\MINTIC\hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migr
 D:\todo\cursos virt\MINTIC\hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-Migrant.App.Frontend\obj\Debug\net5.0\ref\E-Migrant.App.Frontend.dll
 D:\todo\cursos virt\MINTIC\hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-Migrant.App.Frontend\obj\Debug\net5.0\E-Migrant.App.Frontend.pdb
 D:\todo\cursos virt\MINTIC\hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-Migrant.App.Frontend\obj\Debug\net5.0\E-Migrant.App.Frontend.genruntimeconfig.cache
+D:\todo\cursos virt\MINTIC\hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-Migrant.App.Frontend\obj\Debug\net5.0\Razor\Pages\CrudMigrante\Migrante.cshtml.g.cs
+D:\todo\cursos virt\MINTIC\hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-Migrant.App.Frontend\obj\Debug\net5.0\Razor\Pages\CrudMigrante\MigranteDelete.cshtml.g.cs
+D:\todo\cursos virt\MINTIC\hackaton\e-migrant-grupo35_turingsoft\Proyecto_E-Migrant\E-Migrant.App\E-Migrant.App.Frontend\obj\Debug\net5.0\Razor\Pages\CrudMigrante\MigranteEdit.cshtml.g.cs

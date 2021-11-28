@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iFw3uTSWFhp5bn/CFH6FE0puy3rygyMLYzsWlUNPNjsMxECZ+P23tsettR1SuSe6GdSqb9g4SmCs2N/604ac1A==",
+  "dgSpecHash": "JNNUEOkKfekWMASlaW2LAZnUBaouDP4h7h/s0d0HOwTzZdDSoua6nwfx/9TXP/JKwA8587CavjIUoRYzzGFjAQ==",
   "success": true,
-  "projectFilePath": "D:\\todo\\cursos virt\\MINTIC\\hackaton\\e-migrant-grupo35_turingsoft\\Proyecto_E-Migrant\\E-Migrant.App\\E-Migrant.App.Dominio\\E-Migrant.App.Dominio.csproj",
+  "projectFilePath": "D:\\todo\\cursos virt\\MINTIC\\hackaton\\e-migrant-grupo35_turingsoft\\Proyecto_E-Migrant\\E-Migrant.App\\E-migrant.App.Dominio\\E-Migrant.App.Dominio.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

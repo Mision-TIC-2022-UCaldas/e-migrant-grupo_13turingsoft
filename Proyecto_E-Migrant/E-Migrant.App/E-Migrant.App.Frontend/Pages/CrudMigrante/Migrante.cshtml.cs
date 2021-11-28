@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace E_Migrant.App.Frontend.page.CrudMigrante
+namespace E_Migrant.App.Frontend.page
 {
     public class MigranteModel : PageModel
     {
