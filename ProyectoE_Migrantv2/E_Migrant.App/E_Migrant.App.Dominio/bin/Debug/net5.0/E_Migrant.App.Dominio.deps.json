@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "E_Migrant.App.Dominio/1.0.0": {
+        "runtime": {
+          "E_Migrant.App.Dominio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "E_Migrant.App.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

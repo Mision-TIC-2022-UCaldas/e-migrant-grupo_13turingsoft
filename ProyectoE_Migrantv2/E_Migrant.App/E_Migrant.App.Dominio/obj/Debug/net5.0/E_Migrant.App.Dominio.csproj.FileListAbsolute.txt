@@ -1,0 +1,12 @@
+C:\HACKATON\e-migrant-grupo35_turingsoft\ProyectoE_Migrantv2\E_Migrant.App\E_Migrant.App.Dominio\obj\Debug\net5.0\E_Migrant.App.Dominio.csproj.AssemblyReference.cache
+C:\HACKATON\e-migrant-grupo35_turingsoft\ProyectoE_Migrantv2\E_Migrant.App\E_Migrant.App.Dominio\obj\Debug\net5.0\E_Migrant.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\HACKATON\e-migrant-grupo35_turingsoft\ProyectoE_Migrantv2\E_Migrant.App\E_Migrant.App.Dominio\obj\Debug\net5.0\E_Migrant.App.Dominio.AssemblyInfoInputs.cache
+C:\HACKATON\e-migrant-grupo35_turingsoft\ProyectoE_Migrantv2\E_Migrant.App\E_Migrant.App.Dominio\obj\Debug\net5.0\E_Migrant.App.Dominio.AssemblyInfo.cs
+C:\HACKATON\e-migrant-grupo35_turingsoft\ProyectoE_Migrantv2\E_Migrant.App\E_Migrant.App.Dominio\obj\Debug\net5.0\E_Migrant.App.Dominio.csproj.CoreCompileInputs.cache
+C:\HACKATON\e-migrant-grupo35_turingsoft\ProyectoE_Migrantv2\E_Migrant.App\E_Migrant.App.Dominio\bin\Debug\net5.0\E_Migrant.App.Dominio.deps.json
+C:\HACKATON\e-migrant-grupo35_turingsoft\ProyectoE_Migrantv2\E_Migrant.App\E_Migrant.App.Dominio\bin\Debug\net5.0\E_Migrant.App.Dominio.dll
+C:\HACKATON\e-migrant-grupo35_turingsoft\ProyectoE_Migrantv2\E_Migrant.App\E_Migrant.App.Dominio\bin\Debug\net5.0\ref\E_Migrant.App.Dominio.dll
+C:\HACKATON\e-migrant-grupo35_turingsoft\ProyectoE_Migrantv2\E_Migrant.App\E_Migrant.App.Dominio\bin\Debug\net5.0\E_Migrant.App.Dominio.pdb
+C:\HACKATON\e-migrant-grupo35_turingsoft\ProyectoE_Migrantv2\E_Migrant.App\E_Migrant.App.Dominio\obj\Debug\net5.0\E_Migrant.App.Dominio.dll
+C:\HACKATON\e-migrant-grupo35_turingsoft\ProyectoE_Migrantv2\E_Migrant.App\E_Migrant.App.Dominio\obj\Debug\net5.0\ref\E_Migrant.App.Dominio.dll
+C:\HACKATON\e-migrant-grupo35_turingsoft\ProyectoE_Migrantv2\E_Migrant.App\E_Migrant.App.Dominio\obj\Debug\net5.0\E_Migrant.App.Dominio.pdb

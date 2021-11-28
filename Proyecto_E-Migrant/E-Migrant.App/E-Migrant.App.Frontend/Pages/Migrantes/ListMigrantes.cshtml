@@ -1,0 +1,49 @@
+﻿@page
+@model E_Migrant.App.FrontEnd.Pages.ListMigrantesModel
+@{
+    ViewData["Title"] = "Lista de Migrantes";
+}
+
+<h1>Lista de Migrantes</h1>
+
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th scope="col">No.</th>
+            <th scope="col">Nombre</th>
+            <th scope="col">Documento</th>
+            <th scope="col">Detalles</th>
+            @* <th scope="col">Editar</th> *@
+            <th scope="col">Familiar/Amigo</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var persona in Model.Personas)
+        {
+            <tr>
+                <td>@persona.Id</td>
+                <td>@persona.Nombres @persona.Apelidos</td>
+                <td>@persona.Documento</td>
+                <td>
+                    <a class="btn btn-primary table-btn" asp-page="/Migrantes/DetallesMigrante" asp-route-idPersona="@persona.Id">
+                        <i class="fas fa-user-tag"></i>
+                    </a>
+                </td>
+                @* <td>
+                    <a class="btn btn-primary table-btn" asp-page="" asp-route-idPersona="@paciente.Id">
+                        <i class="fas fa-edit"></i>
+                    </a>
+                </td> *@
+                <td>
+                    <div class="form-check">
+                        <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
+                        <label class="form-check-label" for="flexCheckDefault"></label>
+                        @* <a class="btn btn-primary table-btn" asp-page="" asp-route-idPersona="@paciente.Id">
+                            <i class=""></i>
+                            </a> *@
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<a asp-page="" class="btn btn-outline-success">Añadir familiar/amigo</a>

@@ -1,0 +1,61 @@
+﻿@page
+@model E_Migrant.App.FrontEnd.Pages.DetallesMigranteModel
+@{
+    ViewData["Title"] = "Informacion de MIgrante";
+    int idPersona = Model.Persona.Id;
+}
+<h1>Información del Migrante No. @Model.Persona.Id</h1>
+<br>
+<div class="container">
+    <table class="table table-hover">
+        <tbody>
+            <tr>
+                <th scope="row">Nombres:</th>
+                <td>@Model.Persona.Nombres</td>
+            </tr>
+            <tr>
+                <th scope="row">Apellidos:</th>
+                <td>@Model.Persona.Apelidos</td>
+            </tr>
+            <tr>
+                <th scope="row">Tipo de Documento:</th>
+                <td>@Model.Persona.TipoDocumento</td>
+            </tr>
+            <tr>
+                <th scope="row">No. Documento:</th>
+                <td>@Model.Persona.Documento</td>
+            </tr>
+            <tr>
+                <th scope="row">Pais de origen:</th>
+                <td>@Model.Persona.PaisOrigen</td>
+            </tr>
+            <tr>
+                <th scope="row">Fecha de Nacimiento:</th>
+                <td>@Model.Persona.FechaNacimiento.ToString("yyy-MM-dd")</td>
+            </tr>
+            <tr>
+                <th scope="row">Correo:</th>
+                <td>@Model.Persona.Email</td>
+            </tr>
+            <tr>
+                <th scope="row">Teléfono:</th>
+                <td>@Model.Persona.Telefono</td>
+            </tr>
+            <tr>
+                <th scope="row">Dirección</th>
+                <td>@Model.Persona.Direccion</td>
+            </tr>
+            <tr>
+                <th scope="row">Ciudad</th>
+                <td>@Model.Persona.Ciudad</td>
+            </tr>
+            <tr>
+                <th scope="row">Situación laboral</th>
+                <td>@Model.Persona.SituacionLaboral</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+<br>
+<a asp-page="" class="btn btn-outline-primary" asp-route-idPersona="@idPersona">Actualizar datos</a>
+<a asp-page="" class="btn btn-outline-secondary">Volver</a>
