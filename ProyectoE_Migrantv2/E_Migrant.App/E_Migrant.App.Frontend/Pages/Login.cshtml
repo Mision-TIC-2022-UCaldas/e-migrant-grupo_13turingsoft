@@ -1,0 +1,27 @@
+﻿@page
+@model E_Migrant.App.FrontEnd.Pages.LoginModel
+@{
+}
+
+<div class="container">
+    <form class="row g-3">
+        <h1 class="h3 mb-3 fw-normal">Por favor inicia sesión</h1>
+
+        <div class="w-60 form-floating">
+            <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com">
+            <label for="floatingInput">Correo electrónico</label>
+        </div>
+        <div class="form-floating">
+            <input type="password" class="form-control" id="floatingPassword" placeholder="Password">
+            <label for="floatingPassword">Contraseña</label>
+        </div>
+
+        <div class="checkbox mb-3">
+            <label>
+                <input type="checkbox" value="remember-me"> Remember me
+            </label>
+        </div>
+        <button class="w-30 btn btn-lg btn-primary" type="submit">Iniciar sesión</button>
+        <p class="mt-5 mb-3 text-muted">&copy; 2017–2021</p>
+    </form>
+</div>

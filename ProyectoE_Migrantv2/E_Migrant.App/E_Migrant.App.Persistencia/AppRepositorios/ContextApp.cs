@@ -3,7 +3,7 @@ using E_Migrant.App.Dominio.Entidades;
 
 namespace E_Migrant.App.Persistencia.AppRepositorios
 {
-    public class AppContext : DbContext
+    public class ContextApp : DbContext
     {
         public DbSet<Credencial> Credenciales {get; set;}
         public DbSet<Persona> Personas { get; set; }
