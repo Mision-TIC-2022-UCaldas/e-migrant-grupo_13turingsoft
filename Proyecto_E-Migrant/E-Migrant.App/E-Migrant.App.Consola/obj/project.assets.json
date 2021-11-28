@@ -5796,19 +5796,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\teis_\\.nuget\\packages\\": {}
+    "C:\\Users\\GAMER\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\HACKATON\\e-migrant-grupo35_turingsoft\\Proyecto_E-Migrant\\E-Migrant.App\\E-Migrant.App.Consola\\E-Migrant.App.Consola.csproj",
+      "projectUniqueName": "D:\\todo\\cursos virt\\MINTIC\\hackaton\\e-migrant-grupo35_turingsoft\\Proyecto_E-Migrant\\E-Migrant.App\\E-Migrant.App.Consola\\E-Migrant.App.Consola.csproj",
       "projectName": "E-Migrant.App.Consola",
-      "projectPath": "C:\\HACKATON\\e-migrant-grupo35_turingsoft\\Proyecto_E-Migrant\\E-Migrant.App\\E-Migrant.App.Consola\\E-Migrant.App.Consola.csproj",
-      "packagesPath": "C:\\Users\\teis_\\.nuget\\packages\\",
-      "outputPath": "C:\\HACKATON\\e-migrant-grupo35_turingsoft\\Proyecto_E-Migrant\\E-Migrant.App\\E-Migrant.App.Consola\\obj\\",
+      "projectPath": "D:\\todo\\cursos virt\\MINTIC\\hackaton\\e-migrant-grupo35_turingsoft\\Proyecto_E-Migrant\\E-Migrant.App\\E-Migrant.App.Consola\\E-Migrant.App.Consola.csproj",
+      "packagesPath": "C:\\Users\\GAMER\\.nuget\\packages\\",
+      "outputPath": "D:\\todo\\cursos virt\\MINTIC\\hackaton\\e-migrant-grupo35_turingsoft\\Proyecto_E-Migrant\\E-Migrant.App\\E-Migrant.App.Consola\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\teis_\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\GAMER\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -5820,11 +5820,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\HACKATON\\e-migrant-grupo35_turingsoft\\Proyecto_E-Migrant\\E-Migrant.App\\E-Migrant.App.Dominio\\E-Migrant.App.Dominio.csproj": {
-              "projectPath": "C:\\HACKATON\\e-migrant-grupo35_turingsoft\\Proyecto_E-Migrant\\E-Migrant.App\\E-Migrant.App.Dominio\\E-Migrant.App.Dominio.csproj"
+            "D:\\todo\\cursos virt\\MINTIC\\hackaton\\e-migrant-grupo35_turingsoft\\Proyecto_E-Migrant\\E-Migrant.App\\E-Migrant.App.Dominio\\E-Migrant.App.Dominio.csproj": {
+              "projectPath": "D:\\todo\\cursos virt\\MINTIC\\hackaton\\e-migrant-grupo35_turingsoft\\Proyecto_E-Migrant\\E-Migrant.App\\E-Migrant.App.Dominio\\E-Migrant.App.Dominio.csproj"
             },
-            "C:\\HACKATON\\e-migrant-grupo35_turingsoft\\Proyecto_E-Migrant\\E-Migrant.App\\E-Migrant.App.Persistencia\\E-Migrant.App.Persistencia.csproj": {
-              "projectPath": "C:\\HACKATON\\e-migrant-grupo35_turingsoft\\Proyecto_E-Migrant\\E-Migrant.App\\E-Migrant.App.Persistencia\\E-Migrant.App.Persistencia.csproj"
+            "D:\\todo\\cursos virt\\MINTIC\\hackaton\\e-migrant-grupo35_turingsoft\\Proyecto_E-Migrant\\E-Migrant.App\\E-Migrant.App.Persistencia\\E-Migrant.App.Persistencia.csproj": {
+              "projectPath": "D:\\todo\\cursos virt\\MINTIC\\hackaton\\e-migrant-grupo35_turingsoft\\Proyecto_E-Migrant\\E-Migrant.App\\E-Migrant.App.Persistencia\\E-Migrant.App.Persistencia.csproj"
             }
           }
         }
@@ -5861,7 +5861,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

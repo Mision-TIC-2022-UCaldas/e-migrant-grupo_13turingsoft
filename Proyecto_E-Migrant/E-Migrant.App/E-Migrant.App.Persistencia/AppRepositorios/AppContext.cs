@@ -1,11 +1,12 @@
 using Microsoft.EntityFrameworkCore;
-//using E_Migrant.App.Dominio.Entidades;
+using E_Migrant.App.Dominio.Entidades;
 
 namespace E_Migrant.App.Persistencia
 {
     public class AppContext : DbContext
     {
-        //public DbSet<Persona> Personas { get; set; }
+        public DbSet<Migrante> Migrantes { get; set; }
+        public DbSet<GrupoPersona> GrupoPersonas { get; set; }
         
 
 

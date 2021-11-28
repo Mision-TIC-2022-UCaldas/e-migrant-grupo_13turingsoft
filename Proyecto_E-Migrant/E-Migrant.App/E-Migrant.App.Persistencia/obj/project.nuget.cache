@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VIEZLQuGiRyF+vFTVTvMUWrrPsPb/Mmze77LZhhLS+cHWONSCQDVkrcBRoosTs/3uqQUCRpcRZGH1vv/ViY9mA==",
+  "dgSpecHash": "BI1IKjs89lHEOSx0xGoltDFkEYmpq7itFGTPYH2SjWMgvw5ZbpPJLkaeKmtqfNthqrIw/wc7kMp3Fj3En+nKUw==",
   "success": true,
-  "projectFilePath": "D:\\todo\\cursos virt\\MINTIC\\hackaton\\e-migrant-grupo35_turingsoft\\Proyecto_E-Migrant\\E-Migrant.App\\E-migrant.App.Persistencia\\E-Migrant.App.Persistencia.csproj",
+  "projectFilePath": "D:\\todo\\cursos virt\\MINTIC\\hackaton\\e-migrant-grupo35_turingsoft\\Proyecto_E-Migrant\\E-Migrant.App\\E-Migrant.App.Persistencia\\E-Migrant.App.Persistencia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\GAMER\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\GAMER\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
